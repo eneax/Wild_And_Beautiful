@@ -3,13 +3,13 @@
 --------------------------- */
 
 body {
-  padding-top: 70px;
+	padding-top: 70px;
 	background: #F9D535;
 }
 
 svg {
 	margin: auto;
-  display: block;
+  	display: block;
 	width: 35%;
 }
 
@@ -18,15 +18,11 @@ svg {
 --------------------------- */
 
 @keyframes offset {
-  100% {
-    stroke-dashoffset: 0;
-  }
+	100% { stroke-dashoffset: 0; }
 }
 
 @keyframes fill-it {
-	100% {
-	fill: #A167A5;
-	}
+	100% { fill: #A167A5; }
 }
 
 /* --------------------------
